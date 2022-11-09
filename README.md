@@ -12,7 +12,7 @@
 
 <h3>📈Progress Report: </h3>
 <p>
-✔Task 1: Landing Page [Completed on 10-11-2022]<br/>
+✔Task 1: <a href="https://github.com/Mr-RajniX/OIBSIP/tree/main/%5BLevel%201%5D%20Task%201">Landing Page</a> [Completed on 10-11-2022]<br/>
 Task 2: Portfolio      <br/>
 Task 3: Tempreture Converter Website
 </p>
