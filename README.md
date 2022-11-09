@@ -1,4 +1,7 @@
-<h1 align="center">OASIS INFOBYTE</h1>
+
+<h1 align="center"> <img src="https://github.com/Mr-RajniX/OIBSIP/blob/main/OASIS__INFOBYTE.png" height="60" width="60">
+<a href="https://oasisinfobyte.com" target="_blank"> OASIS INFOBYTE </a>
+</h1>
 <h2 align="center">✍Web Development and Designing Intern✍</h2>
 
 <h3><ins>Tasks lists</ins>:</h3>
@@ -12,7 +15,7 @@
 
 <h3>📈Progress Report: </h3>
 <p>
-✔Task 1: <a href="https://github.com/Mr-RajniX/OIBSIP/tree/main/%5BLevel%201%5D%20Task%201">Landing Page</a> [Completed on 10-11-2022]<br/>
+✔Task 1: <a href="https://github.com/Mr-RajniX/OIBSIP/tree/main/%5BLevel%201%5D%20Task%201" target="_blank">Landing Page</a> [Completed on 10-11-2022]<br/>
 Task 2: Portfolio      <br/>
 Task 3: Tempreture Converter Website
 </p>
