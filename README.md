@@ -18,11 +18,13 @@
 ✔Task 1: <a href="https://github.com/Mr-RajniX/OIBSIP/tree/main/%5BLevel%201%5D%20Task%201" target="_blank">Landing Page</a> [Completed on 10-11-2022]
  <a href="https://www.linkedin.com/posts/mr-rajnix_internship-oasisinfobyte-webdevelopmentinternship-activity-6996477944378343424-Cwo-?utm_source=share&utm_medium=member_desktop" target="_blank">Demo Video</a>
 <br/>
-✔Task 2:  <a href="https://github.com/Mr-RajniX/OIBSIP/tree/main/Task%202" target="_blank">Portfolio</a> [Completed on 16-11-2022]    <br/>
+✔Task 2:  <a href="https://github.com/Mr-RajniX/OIBSIP/tree/main/Task%202" target="_blank">Portfolio</a> [Completed on 16-11-2022]    
+<a href="https://www.linkedin.com/posts/mr-rajnix_internship-oasisinfobyte-webdevelopmentinternship-activity-6999734965198311424-78Xq?utm_source=share&utm_medium=member_desktop" target="_blank">Demo Video</a>
+<br/>
    <pre> <ins><b>Note</b></ins>:
       <em>👉All images taken from google...:)</em></pre>
-Task 3: Tempreture Converter Website
-</p>
+✔Task 3: <a href="https://github.com/Mr-RajniX/OIBSIP/tree/main/Task%203" target="_blank">Tempreture Converter Website</a> [Completed on 22-11-2022]
+</p> 
 
 
 
